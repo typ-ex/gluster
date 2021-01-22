@@ -1,6 +1,6 @@
 [gluster]
-10.108.0.92
-10.108.0.93
+10.108.1.92
+10.108.1.93
 
 [gluster:vars]
 ansible_user=vagrant
