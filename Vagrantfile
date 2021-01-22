@@ -13,8 +13,8 @@ Vagrant.configure("2") do |config|
   
   # Define two VMs with static private IP addresses
   boxes = [
-    { :name => "gluster1", :ip => "10.190.0.92" },
-    { :name => "gluster2", :ip => "10.190.0.93" },
+    { :name => "gluster1", :ip => "10.108.0.92" },
+    { :name => "gluster2", :ip => "10.108.0.93" },
   ]
 
 # run ansible script after last machine is made
